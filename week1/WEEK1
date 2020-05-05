@@ -1,0 +1,77 @@
+Week 1
+Topics:
+
+Introduction to code structure
+
+Compiling and executing program
+
+Introduction to data types
+
+Representing Numbers: int, double, float
+Comments
+
+Introduction to piazza
+
+Laboratory work #1
+
+Lab work:
+
+You need to solve all problems starting from A to J the link below:
+
+Lab1 - https://informatics.msk.ru/mod/statements/view.php?id=2296 (A-J)
+
+Installation
+
+For Windows:
+
+Download the file MinGW .
+
+Extract it under root directory (C:\ or D:\)
+
+Follow video instruction of MinGW configuration on Windows:
+
+
+
+For Linux (Ubuntu):
+
+Open terminal and type following commands:
+
+sudo apt-get update
+sudo apt-get install g++
+For Mac(OSX):
+
+Open terminal app, type g++ and hit Enter key. After that you will be asked to install missing package (you need to accept it). It will automatically download and install g++ from Apple Developer site.
+
+Preferred editors:
+
+https://code.visualstudio.com/ 
+
+https://notepad-plus-plus.org/
+
+gedit on Ubuntu
+
+
+Basic Terminal commands:
+
+https://github.com/bobur554396/PL2017FALL/blob/master/basic_commands.textile
+
+C++ reference documentation (API) and tutorials:
+
+1) http://www.cplusplus.com/
+
+Lecture samples Baisakov G1: https://github.com/Beisenbek/kbtu-2018-fall-lecture-samples/tree/master/pp1/Wednesday
+
+                                            G2: https://github.com/Beisenbek/kbtu-2018-fall-lecture-samples/tree/master/pp1/Friday
+
+                                            G3: https://github.com/Beisenbek/kbtu-2018-fall-lecture-samples/tree/master/pp1/Saturday 
+
+Lecture samples Akshabayev G1: https://github.com/askarakshabayev/PP1-2018
+
+Lecture samples Mukhsimbayev: https://github.com/bobur554396/PPI2018FALL/tree/master/week1
+
+Lecture samples Buzaubakov   https://github.com/ramanqul/pp2018
+
+Чт 8-12 https://docs.google.com/spreadsheets/d/1gzA89og2KVFwgkJEfBUG0uXIt0q9u3P9ylWb2x4kwRU/edit?usp=sharing
+
+Пт 8-12 https://docs.google.com/spreadsheets/d/1ET-3vz7hlhXiy_Qe74ZaZ6BkZyxsZhTFN43vzHrAiSE/edit?usp=sharing
+
