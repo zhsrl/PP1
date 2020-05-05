@@ -1,0 +1,39 @@
+Week 6. String functions.
+Topics:
+
+size
+len
+substr
+constructor for string// string s("123")
+find
+insert
+erase
+stringstream
+getline
+append
+string::npos //size_t
+copy //str.copy(buffer,n,0);
+        //buffer[n] = '\0';
+printf
+Lab:
+
+1) http://acm.kbtu.kz/cgi-bin/new-register?action=211&contest_id=145 
+
+2) https://informatics.msk.ru/mod/statements/view.php?id=248 (A - I)
+
+Samples Baisakov
+
+G1: https://github.com/Beisenbek/kbtu-2018-fall-lecture-samples/tree/master/pp1/Wednesday
+
+G2: https://github.com/Beisenbek/kbtu-2018-fall-lecture-samples/tree/master/pp1/Friday
+
+G3: https://github.com/Beisenbek/kbtu-2018-fall-lecture-samples/tree/master/pp1/Saturday
+
+Amanov Alimzhan:
+
+http://www.cplusplus.com/reference/string/string/ - string documentation in C++
+
+https://github.com/simb4/kbtu_pp1_2018 - lecture notes, there is instruction of how to download to local machine.
+
+Mukhsimbayev: https://github.com/bobur554396/PPI2018FALL/tree/master/week6
+
